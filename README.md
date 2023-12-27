@@ -31,4 +31,4 @@ Materials for the course "Deep Learning for Computer Vision"
 
 ## Auxiliary materials
 
-- [archive](https://colab.research.google.com/github/lyubonko/ucu2023cv/blob/main/auxilaries/papers_arxiv.ipynb)
+[archive papers](https://colab.research.google.com/github/lyubonko/ucu2023cv/blob/main/auxilaries/papers_arxiv.ipynb)
